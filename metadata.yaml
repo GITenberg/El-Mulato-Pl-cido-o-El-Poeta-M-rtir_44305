@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42683'
     url: http://www.gutenberg.org/2009/agents/42683
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44305#El-Mulato-Pl-cido-o-El-Poeta-M-rtir
 gutenberg_issued: '2013-11-28'
 gutenberg_type: Text
 identifiers:
