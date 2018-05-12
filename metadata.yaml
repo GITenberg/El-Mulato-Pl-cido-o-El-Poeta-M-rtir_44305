@@ -1,0 +1,25 @@
+_repo: El-Mulato-Pl-cido-o-El-Poeta-M-rtir_44305
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44305-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lemoine, Joaquín
+    alias: Lemoine, Joaquin
+    gutenberg_agent_id: '42683'
+    url: http://www.gutenberg.org/2009/agents/42683
+description: ''
+gutenberg_issued: '2013-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44305'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+title: El Mulato Plácido o El Poeta Mártir
+url: http://www.gutenberg.org/ebooks/44305
